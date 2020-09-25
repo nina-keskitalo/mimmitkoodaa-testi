@@ -1,0 +1,4 @@
+Tämä on Git file 2 myös tämän muutan
+Lisään myös tähän fileen rivin 
+lisään tähän myös toisen ja kolmannen rivin
+...ja tutkin lopputulosta Githubissa 

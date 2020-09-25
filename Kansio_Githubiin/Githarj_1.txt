@@ -1,0 +1,2 @@
+Tämä on Git file 1- tämä on muutettu versio
+Lisään uuteen muutokseen rivin

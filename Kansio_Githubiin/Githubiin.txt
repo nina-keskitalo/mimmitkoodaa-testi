@@ -1,0 +1,1 @@
+Testaan saano siirrettyä kansion ja tämän filen Githubiin.
